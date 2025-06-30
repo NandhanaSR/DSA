@@ -1,3 +1,5 @@
+// Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "dynamic_input.c"
